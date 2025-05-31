@@ -15,11 +15,11 @@ $(document).keypress(function() {
 
   
 
-var audioRed = new Audio('/Users/etsh/NODEJS/FullStack/Simon Game Challenge Starting Files/sounds/red.mp3');
-var audioYellow = new Audio('/Users/etsh/NODEJS/FullStack/Simon Game Challenge Starting Files/sounds/yellow.mp3');
-var audioBlue = new Audio('/Users/etsh/NODEJS/FullStack/Simon Game Challenge Starting Files/sounds/blue.mp3');
-var audioGreen = new Audio('/Users/etsh/NODEJS/FullStack/Simon Game Challenge Starting Files/sounds/green.mp3');
-var audioWrong = new Audio('/Users/etsh/NODEJS/FullStack/Simon Game Challenge Starting Files/sounds/wrong.mp3');
+var audioRed = new Audio('./sounds/red.mp3');
+var audioYellow = new Audio('./sounds/yellow.mp3');
+var audioBlue = new Audio('./sounds/blue.mp3');
+var audioGreen = new Audio('./sounds/green.mp3');
+var audioWrong = new Audio('./sounds/wrong.mp3');
 
 
 
