@@ -15,11 +15,11 @@ $(document).keypress(function() {
 
   
 
-var audioRed = new Audio('https://github.com/Etsh95/simon-game/blob/66aa6bef8d92826e684f1780eda0680623984f5d/sounds/red.mp3?raw=true');
-var audioYellow = new Audio('https://github.com/Etsh95/simon-game/blob/66aa6bef8d92826e684f1780eda0680623984f5d/sounds/yellow.mp3?raw=true');
-var audioBlue = new Audio('https://github.com/Etsh95/simon-game/blob/66aa6bef8d92826e684f1780eda0680623984f5d/sounds/blue.mp3?raw=true');
-var audioGreen = new Audio('https://github.com/Etsh95/simon-game/blob/66aa6bef8d92826e684f1780eda0680623984f5d/sounds/green.mp3?raw=true');
-var audioWrong = new Audio('https://github.com/Etsh95/simon-game/blob/66aa6bef8d92826e684f1780eda0680623984f5d/sounds/wrong.mp3?raw=true');
+var audioRed = new Audio('sounds/red.mp3');
+var audioYellow = new Audio('sounds/yellow.mp3');
+var audioBlue = new Audio('sounds/blue.mp3');
+var audioGreen = new Audio('sounds/green.mp3');
+var audioWrong = new Audio('sounds/wrong.mp3');
 
 
 
