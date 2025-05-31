@@ -15,11 +15,11 @@ $(document).keypress(function() {
 
   
 
-var audioRed = new Audio('./sounds/red.mp3');
-var audioYellow = new Audio('./sounds/yellow.mp3');
-var audioBlue = new Audio('./sounds/blue.mp3');
-var audioGreen = new Audio('./sounds/green.mp3');
-var audioWrong = new Audio('./sounds/wrong.mp3');
+var audioRed = new Audio('/sounds/red.mp3');
+var audioYellow = new Audio('/sounds/yellow.mp3');
+var audioBlue = new Audio('/sounds/blue.mp3');
+var audioGreen = new Audio('/sounds/green.mp3');
+var audioWrong = new Audio('/sounds/wrong.mp3');
 
 
 
